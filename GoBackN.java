@@ -6,6 +6,7 @@ public class Main
 		int n=sc.nextInt();
 		for(int i=0;i<n;i++){
 		    System.out.println("Frame "+ i +" has been transmitted.");
+			System.out.println("Hello World");
 		}
 		System.out.println("Please enter the last Acknowledgement received.");
 		int k=sc.nextInt();
